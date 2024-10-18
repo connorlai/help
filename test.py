@@ -1,3 +1,4 @@
 print('hello')
-print('disc!')
+print("goodbye")
 
+print(1)
